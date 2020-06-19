@@ -1,13 +1,13 @@
 class Dog 
    
   fido = Dog 
-  fido => # => Dog:0x0000000001d3a288
+  fido => #Dog:0x0000000001d3a288
     
   snoopy = Dog.new 
-  snoopy # => Dog:0x0000000001d52928
+  snoopy #Dog:0x0000000001d52928
   
   lassie = Dog.new
-  lassie # => Dog:0x0000000001d62b48
+  lassie #Dog:0x0000000001d62b48
   
 
 
