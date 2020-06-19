@@ -7,7 +7,7 @@ class Dog
   snoopy # => Dog:0x0000000001d52928
   
   lassie = Dog.new
-  lassie # => Dog:
+  lassie # => Dog:0x0000000001d62b48
   
 
 
